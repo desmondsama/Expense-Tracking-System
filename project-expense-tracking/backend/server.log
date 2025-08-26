@@ -1,0 +1,16 @@
+2025-08-19 16:51:45,857 - db_helper - INFO - Fetching expenses for date called with 2024-08-01
+2025-08-19 16:51:46,161 - db_helper - INFO - Fetching expense summary for date called with 2024-08-01, and 2024-08-05
+2025-08-19 17:10:29,089 - db_helper - INFO - Fetching expenses for date called with 2024-08-01
+2025-08-19 17:10:29,236 - db_helper - INFO - Fetching expense summary for date called with 2024-08-01, and 2024-08-052025-08-25 14:00:57,410 - db_helper - INFO - Fetching expense summary for date called with 2024-08-01, and 2024-08-05
+2025-08-25 21:32:11,392 - db_helper - INFO - Fetching expenses for date called with 2024-08-03
+2025-08-25 21:32:31,253 - db_helper - INFO - Fetching expense summary for date called with 2024-08-01, and 2024-08-05
+2025-08-25 21:36:19,487 - db_helper - INFO - Fetching expense summary for date called with 2024-08-01, and 2024-08-05
+2025-08-25 21:43:09,671 - db_helper - INFO - Fetching expenses for date called with 2024-08-01
+2025-08-25 21:43:18,185 - db_helper - INFO - Fetching expenses for date called with 2024-08-01
+2025-08-25 21:43:22,741 - db_helper - INFO - Fetching expenses for date called with 2024-08-01
+2025-08-25 21:43:24,872 - db_helper - INFO - Fetching expense summary for date called with 2024-08-01, and 2024-08-05
+2025-08-25 22:15:07,779 - db_helper - INFO - Fetching expenses for date called with 2024-08-01
+2025-08-25 22:15:09,936 - db_helper - INFO - Fetching expense summary for date called with 2024-08-01, and 2024-08-05
+2025-08-25 23:08:09,742 - db_helper - INFO - Fetching expenses for date called with 2024-08-01
+2025-08-25 23:08:14,234 - db_helper - INFO - Fetching expenses for date called with 2024-08-01
+2025-08-25 23:08:16,343 - db_helper - INFO - Fetching expense summary for date called with 2024-08-01, and 2024-08-05
